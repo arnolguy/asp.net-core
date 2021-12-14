@@ -28,7 +28,7 @@
   -ms-flex-direction: column;
   flex-direction: column;
 }
-.swiper-wrapper {
+wrapper {
   position: relative;
   width: 100%;
   height: 100%;
